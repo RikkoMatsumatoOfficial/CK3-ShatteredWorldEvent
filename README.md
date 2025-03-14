@@ -1,2 +1,2 @@
 # CK3-ShatteredWorldEvent
-CK3-ShatteredWorldEvent by RikkoMatsumatoOfficial
+event shattered_world.1 0000 - Write This only in Console(Crusader Kings 3)!!!
